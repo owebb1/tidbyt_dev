@@ -72,8 +72,7 @@ def get_schema():
                 scopes = [
                     "offline",
                     "read:profile"
-                ],
-                state = "afjoefo"
+                ]
             )
         ]
     )
