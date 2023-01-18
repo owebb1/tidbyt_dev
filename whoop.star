@@ -11,7 +11,7 @@ load("math.star", "math")
 # OAUTH2
 CACHE_TTL = 60 * 60 * 24  # updates once daily
 WHOOP_CLIENT_ID = "57e208d4-777d-4e4a-8131-1a6ad22631c1"
-WHOOP_CLIENT_SECRET = "7ac9e94a0d6cde85a62147c96917287a1eb0293f29ea45af4bb3734e2f25259e"
+WHOOP_CLIENT_SECRET = "*****"
 WHOOP_OAUTH_AUTHORIZATION_URL = "https://api.prod.whoop.com/oauth/oauth2/auth"
 WHOOP_OAUTH_TOKEN_URL = "https://api.prod.whoop.com/oauth/oauth2/token"
 TIDBYT_OAUTH_CALLBACK_URL = "http%3A%2F%2Flocalhost%3A8080%2Foauth-callback" # registered http://localhost:8080/oauth-callback as redirect_uri at Dexcom
